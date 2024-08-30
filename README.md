@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/59168880/119048764-4dda5f80-b9dd-11eb-89bc-05649c4decf5.gif" width="100%" height="400px">
 <h1 align="center">Hi 👋, I'm Harsh </h1>
-<h3 align="center">A passionate data science </h3>
+<h3 align="center"> i love data science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HaRsh121920&label=Profile%20views&color=0e75b6&style=flat" alt="HaRsh121920" /> </p>
 
